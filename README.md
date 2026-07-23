@@ -124,7 +124,7 @@ Passionate about building AI-powered applications, modern web solutions, and sol
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=surbhicsit01-crypto&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -133,14 +133,14 @@ Passionate about building AI-powered applications, modern web solutions, and sol
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=gruvbox&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=surbhicsit01-crypto&show_icons=true&theme=gruvbox&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=gruvbox&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surbhicsit01-crypto&layout=compact&theme=gruvbox&hide_border=true"/>
 
 </p>
 
 <p align="center">
-<img width="60%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=gruvbox&hide_border=true"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=surbhicsit01-crypto&theme=gruvbox&hide_border=true"/>
 </p>
 
 ---
@@ -159,7 +159,7 @@ Passionate about building AI-powered applications, modern web solutions, and sol
 Create this using GitHub Actions.
 ```
 
-![Snake Animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://raw.githubusercontent.com/surbhicsit01-crypto/surbhicsit01-crypto/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -186,7 +186,7 @@ Create this using GitHub Actions.
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/surbhicsit01-crypto">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -195,5 +195,5 @@ Create this using GitHub Actions.
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=surbhicsit01-crypto&style=for-the-badge&color=blue"/>
 </p>
