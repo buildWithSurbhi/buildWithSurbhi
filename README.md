@@ -148,7 +148,7 @@ Passionate about building AI-powered applications, modern web solutions, and sol
 # 💻 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains+Mono&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/Surbhi_pathak24theme=dark&font=JetBrains+Mono&ext=heatmap"/>
 </p>
 
 ---
@@ -178,7 +178,7 @@ Create this using GitHub Actions.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/Surbhi_pathak24">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
