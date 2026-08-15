@@ -82,11 +82,11 @@ Passionate about building AI-powered applications, full-stack web solutions, and
 
 | 🚀 Project | Description |
 |------------|-------------|
-| **[BlueSphere](https://github.com/surbhicsit01-crypto/BlueSphere)** | Smart India Hackathon project for groundwater heavy metal pollution analysis. |
-| **[Falcon Dashboard](https://github.com/surbhicsit01-crypto/Falcon-Dashboard)** | Environmental monitoring dashboard built using Streamlit. |
-| **[Stock Price Prediction](https://github.com/surbhicsit01-crypto/Stock-Price-Prediction)** | Machine Learning model for stock price forecasting. |
-| **[AI Customer Segmentation](https://github.com/surbhicsit01-crypto/AI-Customer-Segmentation)** | Customer segmentation using K-Means clustering. |
-| **[Edge AI Operator Safety](https://github.com/surbhicsit01-crypto/Edge-AI-Operator-Safety-System)** | PPE detection and workplace safety monitoring using Computer Vision. |
+| **[BlueSphere](https://github.com/Buildwithsurbhi/BlueSphere)** | Smart India Hackathon project for groundwater heavy metal pollution analysis. |
+| **[Falcon Dashboard](https://github.com/Buildwithsurbhi/Falcon-Dashboard)** | Environmental monitoring dashboard built using Streamlit. |
+| **[Stock Price Prediction](https://github.com/Buildwithsurbhi/Stock-Price-Prediction)** | Machine Learning model for stock price forecasting. |
+| **[AI Customer Segmentation](https://github.com/Buildwithsurbhi/AI-Customer-Segmentation)** | Customer segmentation using K-Means clustering. |
+| **[Edge AI Operator Safety](https://github.com/Buildwithsurbhi/Edge-AI-Operator-Safety-System)** | PPE detection and workplace safety monitoring using Computer Vision. |
 
 ---
 
@@ -113,7 +113,7 @@ Passionate about building AI-powered applications, full-stack web solutions, and
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surbhicsit01-crypto&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Buildwithsurbhi&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -122,14 +122,14 @@ Passionate about building AI-powered applications, full-stack web solutions, and
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=surbhicsit01-crypto&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Buildwithsurbhi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surbhicsit01-crypto&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buildwithsurbhi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
-<img width="60%" src="https://streak-stats.demolab.com?user=surbhicsit01-crypto&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=Buildwithsurbhi&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -165,7 +165,7 @@ Passionate about building AI-powered applications, full-stack web solutions, and
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/surbhicsit01-crypto">
+<a href="https://github.com/Buildwithsurbhi">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -174,5 +174,5 @@ Passionate about building AI-powered applications, full-stack web solutions, and
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=surbhicsit01-crypto&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Buildwithsurbhi&style=for-the-badge&color=blue"/>
 </p>
