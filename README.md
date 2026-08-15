@@ -102,6 +102,8 @@ Building AI-powered applications, full-stack solutions, and solving real-world p
 | **[👥 AI Customer Segmentation](https://github.com/Buildwithsurbhi/AI-Customer-Segmentation)** | Interactive customer segmentation system using K-Means clustering to identify meaningful customer groups. | `Python` `Scikit-learn` `Streamlit` |
 | **[🦺 Edge AI Operator Safety](https://github.com/Buildwithsurbhi/Edge-AI-Operator-Safety-System)** | AI-powered workplace safety system for PPE detection, fatigue/distraction monitoring, and operator safety alerts. | `Python` `YOLO` `OpenCV` `MediaPipe` |
 
+> 💡 **Click on any project name to explore the repository.**
+
 ---
 
 # 💼 Experience
@@ -135,7 +137,7 @@ Building AI-powered applications, full-stack solutions, and solving real-world p
 
 ---
 
-# 📈 Contribution Graph
+<h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
   <a href="https://github.com/Buildwithsurbhi">
@@ -148,15 +150,13 @@ Building AI-powered applications, full-stack solutions, and solving real-world p
 # 📊 GitHub Stats
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Buildwithsurbhi&show_icons=true&theme=gruvbox&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Buildwithsurbhi&show_icons=true&theme=gruvbox&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buildwithsurbhi&layout=compact&theme=gruvbox&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buildwithsurbhi&layout=compact&theme=gruvbox&hide_border=true"/>
 </p>
 
 <p align="center">
-<img width="60%" src="https://streak-stats.demolab.com?user=Buildwithsurbhi&theme=gruvbox&hide_border=true"/>
+  <img width="60%" src="https://streak-stats.demolab.com?user=Buildwithsurbhi&theme=gruvbox&hide_border=true"/>
 </p>
 
 ---
@@ -172,23 +172,7 @@ Building AI-powered applications, full-stack solutions, and solving real-world p
 # 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Buildwithsurbhi/Buildwithsurbhi/output/github-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Buildwithsurbhi/Buildwithsurbhi/output/github-snake.svg"
-    />
-
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Buildwithsurbhi/Buildwithsurbhi/output/github-snake.svg"
-      width="90%"
-    />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Buildwithsurbhi/Buildwithsurbhi/output/github-snake-dark.svg" width="90%"/>
 </p>
 
 ---
@@ -246,3 +230,5 @@ Building AI-powered applications, full-stack solutions, and solving real-world p
 <p align="center">
   <i>✨ Code. Learn. Build. Repeat. ✨</i>
 </p>
+
+tell me here to add and can you provide me the full corrected code 
